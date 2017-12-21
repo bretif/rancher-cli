@@ -1,2 +1,6 @@
 # rancher-cli
-rancher-cli rancher-compose and docker client
+Container based on alpine that contains
+
+* rancher-cli
+* rancher-compose
+* docker
